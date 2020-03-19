@@ -1,0 +1,1 @@
+{"name": "bcit", "address": "111 Kingsway", "students": [], "staffs": [{"fname": "Bob", "lname": "Lee", "id": 33, "age": 13, "salary": 32876, "position": "cleaner"}], "teachers": []}
